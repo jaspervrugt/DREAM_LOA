@@ -1,8 +1,8 @@
-# DREAM_LOA: Limits of Acceptability with DREAM algorithm: MATLAB and Python Toolboxes
+# DREAM_LOA: Limits of Acceptability with DREAM algorithm: MATLAB and Python code
 
 ## Description
 
-DiffeRential Evolution Adaptive Metropolis (DREAM) algorithm with Limits of Acceptability (LOA) sampling. The MATLAB and Python toolboxes delineate the behavioural solution space of set-theoretic likelihood functions used within the GLUE LOA framework \citep{beven1992,beven2001,beven2006,beven2014}. The algorithm builds on the DREAM$_\text{(ABC)}$ algorithm of \cite{sadegh2014} and enhances significantly the accuracy and CPU-efficiency of Bayesian inference with GLUE. In particular it is shown how lack of adequate sampling in the model space might lead to unjustified model rejection.
+DiffeRential Evolution Adaptive Metropolis (DREAM) algorithm with Limits of Acceptability (LOA) sampling. The MATLAB and Python toolboxes delineate the behavioural solution space of set-theoretic likelihood functions used within the Generalized Likelihood Uncertainty Estimation (GLUE) LOA framework (Beven 1992, 2001, 2006, 2014). The algorithm builds on the DREAM$_{(ABC)}$ algorithm of Sadegh and Vrugt (2014) and enhances significantly the accuracy and CPU-efficiency of Bayesian inference with GLUE. In particular it is shown how lack of adequate sampling in the model space might lead to unjustified model rejection.
 
 ## Getting Started
 
